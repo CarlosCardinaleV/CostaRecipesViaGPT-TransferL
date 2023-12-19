@@ -46,7 +46,7 @@ The project evaluates models based on training and validation losses. These metr
 
 ## Contributing
 
-Contributions to this project are welcome. Please read the contributing guidelines before making a pull request.
+Contributions to this project are welcome.
 
 ## License
 [![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-amarillo.svg)](./LICENSE)
